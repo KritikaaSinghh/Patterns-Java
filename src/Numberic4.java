@@ -1,4 +1,4 @@
-public class Numeric4 {
+public class Numberic4 {
     public static void main(String[] args){
 
         int n = 4;
